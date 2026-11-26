@@ -1,0 +1,19 @@
+# Byte-compiled Python
+__pycache__/
+*.py[cod]
+
+# watchrun runtime data (per-user, per-project — never committed)
+.watchrun-history.jsonl
+watchrun.json
+
+# Virtual environments and packaging
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
